@@ -1,6 +1,0 @@
-#!/bin/sh
-chmod +x print_path.sh
-./print_path.sh
-
-
-
